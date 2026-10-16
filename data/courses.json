@@ -1,0 +1,162 @@
+[
+  {
+    "code": "CS301",
+    "title": "Machine Learning",
+    "department": "CSE",
+    "credits": 4,
+    "semester": 5,
+    "instructor": "Dr. Rao"
+  },
+  {
+    "code": "CS302",
+    "title": "Database Management Systems",
+    "department": "CSE",
+    "credits": 4,
+    "semester": 5,
+    "instructor": "Prof. Nair"
+  },
+  {
+    "code": "CS303",
+    "title": "Operating Systems",
+    "department": "CSE",
+    "credits": 3,
+    "semester": 5,
+    "instructor": "Prof. Iyer"
+  },
+  {
+    "code": "CS304",
+    "title": "Computer Networks",
+    "department": "CSE",
+    "credits": 3,
+    "semester": 5,
+    "instructor": "Dr. Menon"
+  },
+  {
+    "code": "CS305",
+    "title": "Software Engineering",
+    "department": "CSE",
+    "credits": 3,
+    "semester": 5,
+    "instructor": "Dr. Kulkarni"
+  },
+  {
+    "code": "CS310",
+    "title": "Natural Language Processing",
+    "department": "CSE",
+    "credits": 3,
+    "semester": 6,
+    "instructor": "Dr. Vasudev"
+  },
+  {
+    "code": "EE201",
+    "title": "Digital Signal Processing",
+    "department": "ECE",
+    "credits": 3,
+    "semester": 4,
+    "instructor": "Dr. Shankar"
+  },
+  {
+    "code": "EE202",
+    "title": "Embedded Systems",
+    "department": "ECE",
+    "credits": 4,
+    "semester": 5,
+    "instructor": "Prof. Rao"
+  },
+  {
+    "code": "EE203",
+    "title": "Robotics Fundamentals",
+    "department": "ECE",
+    "credits": 3,
+    "semester": 5,
+    "instructor": "Dr. Srinivas"
+  },
+  {
+    "code": "IT301",
+    "title": "Cloud Computing",
+    "department": "IT",
+    "credits": 4,
+    "semester": 5,
+    "instructor": "Dr. Anil Kumar"
+  },
+  {
+    "code": "IT302",
+    "title": "Cyber Security",
+    "department": "IT",
+    "credits": 4,
+    "semester": 6,
+    "instructor": "Prof. Kavitha"
+  },
+  {
+    "code": "IT303",
+    "title": "Web Technologies",
+    "department": "IT",
+    "credits": 3,
+    "semester": 5,
+    "instructor": "Dr. Ramesh"
+  },
+  {
+    "code": "ME201",
+    "title": "Engineering Mechanics",
+    "department": "MECH",
+    "credits": 4,
+    "semester": 3,
+    "instructor": "Prof. Prakash"
+  },
+  {
+    "code": "ME301",
+    "title": "Thermodynamics",
+    "department": "MECH",
+    "credits": 4,
+    "semester": 5,
+    "instructor": "Dr. Suresh"
+  },
+  {
+    "code": "CV201",
+    "title": "Structural Analysis",
+    "department": "CIVIL",
+    "credits": 4,
+    "semester": 4,
+    "instructor": "Dr. Reddy"
+  },
+  {
+    "code": "CV301",
+    "title": "Transportation Engineering",
+    "department": "CIVIL",
+    "credits": 3,
+    "semester": 5,
+    "instructor": "Prof. Narayan"
+  },
+  {
+    "code": "BBA201",
+    "title": "Principles of Marketing",
+    "department": "BBA",
+    "credits": 3,
+    "semester": 3,
+    "instructor": "Prof. Mehta"
+  },
+  {
+    "code": "BBA301",
+    "title": "Financial Management",
+    "department": "BBA",
+    "credits": 4,
+    "semester": 5,
+    "instructor": "Dr. Sharma"
+  },
+  {
+    "code": "BBA302",
+    "title": "Entrepreneurship Development",
+    "department": "BBA",
+    "credits": 3,
+    "semester": 5,
+    "instructor": "Prof. Kapoor"
+  },
+  {
+    "code": "HS101",
+    "title": "Professional Communication",
+    "department": "COMMON",
+    "credits": 2,
+    "semester": 1,
+    "instructor": "Dr. Anita"
+  }
+]

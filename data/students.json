@@ -1,0 +1,729 @@
+[
+  {
+    "id": "S2023001",
+    "name": "Arjun Mehta",
+    "email": "arjun.mehta@campus.edu",
+    "department": "CSE",
+    "year": 3,
+    "cgpa": 8.7,
+    "attendance_pct": 92,
+    "interests": [
+      "AI",
+      "ML",
+      "hackathons",
+      "web development"
+    ],
+    "status": "active",
+    "backlogs": 0,
+    "semester_gpa": [
+      {
+        "semester": 1,
+        "credits": 24,
+        "sgpa": 8.31
+      },
+      {
+        "semester": 2,
+        "credits": 23,
+        "sgpa": 8.72
+      },
+      {
+        "semester": 3,
+        "credits": 23,
+        "sgpa": 8.54
+      },
+      {
+        "semester": 4,
+        "credits": 21,
+        "sgpa": 8.76
+      },
+      {
+        "semester": 5,
+        "credits": 23,
+        "sgpa": 9.19
+      }
+    ]
+  },
+  {
+    "id": "S2023002",
+    "name": "Priya Sharma",
+    "email": "priya.sharma@campus.edu",
+    "department": "CSE",
+    "year": 3,
+    "cgpa": 7.9,
+    "attendance_pct": 68,
+    "interests": [
+      "data science",
+      "ML",
+      "cloud"
+    ],
+    "status": "active",
+    "backlogs": 0,
+    "semester_gpa": [
+      {
+        "semester": 1,
+        "credits": 23,
+        "sgpa": 7.46
+      },
+      {
+        "semester": 2,
+        "credits": 24,
+        "sgpa": 7.72
+      },
+      {
+        "semester": 3,
+        "credits": 20,
+        "sgpa": 8.15
+      },
+      {
+        "semester": 4,
+        "credits": 23,
+        "sgpa": 8.34
+      },
+      {
+        "semester": 5,
+        "credits": 21,
+        "sgpa": 7.86
+      }
+    ]
+  },
+  {
+    "id": "S2023003",
+    "name": "Rohan Gupta",
+    "email": "rohan.gupta@campus.edu",
+    "department": "ECE",
+    "year": 2,
+    "cgpa": 8.9,
+    "attendance_pct": 85,
+    "interests": [
+      "robotics",
+      "embedded",
+      "IoT"
+    ],
+    "status": "active",
+    "backlogs": 0,
+    "semester_gpa": [
+      {
+        "semester": 1,
+        "credits": 21,
+        "sgpa": 9.01
+      },
+      {
+        "semester": 2,
+        "credits": 22,
+        "sgpa": 8.68
+      },
+      {
+        "semester": 3,
+        "credits": 22,
+        "sgpa": 9.02
+      }
+    ]
+  },
+  {
+    "id": "S2023004",
+    "name": "Ananya Reddy",
+    "email": "ananya.reddy@campus.edu",
+    "department": "CSE",
+    "year": 4,
+    "cgpa": 9.4,
+    "attendance_pct": 97,
+    "interests": [
+      "AI",
+      "competitive programming",
+      "research"
+    ],
+    "status": "active",
+    "backlogs": 0,
+    "semester_gpa": [
+      {
+        "semester": 1,
+        "credits": 21,
+        "sgpa": 9.37
+      },
+      {
+        "semester": 2,
+        "credits": 23,
+        "sgpa": 8.96
+      },
+      {
+        "semester": 3,
+        "credits": 23,
+        "sgpa": 9.27
+      },
+      {
+        "semester": 4,
+        "credits": 24,
+        "sgpa": 9.26
+      },
+      {
+        "semester": 5,
+        "credits": 20,
+        "sgpa": 9.55
+      },
+      {
+        "semester": 6,
+        "credits": 24,
+        "sgpa": 9.6
+      },
+      {
+        "semester": 7,
+        "credits": 23,
+        "sgpa": 9.81
+      }
+    ]
+  },
+  {
+    "id": "S2023005",
+    "name": "Karan Patel",
+    "email": "karan.patel@campus.edu",
+    "department": "IT",
+    "year": 3,
+    "cgpa": 6.8,
+    "attendance_pct": 74,
+    "interests": [
+      "web development",
+      "UI/UX"
+    ],
+    "status": "active",
+    "backlogs": 2,
+    "semester_gpa": [
+      {
+        "semester": 1,
+        "credits": 22,
+        "sgpa": 6.73
+      },
+      {
+        "semester": 2,
+        "credits": 24,
+        "sgpa": 6.85
+      },
+      {
+        "semester": 3,
+        "credits": 21,
+        "sgpa": 6.82
+      },
+      {
+        "semester": 4,
+        "credits": 23,
+        "sgpa": 6.57
+      },
+      {
+        "semester": 5,
+        "credits": 24,
+        "sgpa": 7.03
+      }
+    ]
+  },
+  {
+    "id": "S2023006",
+    "name": "Sneha Iyer",
+    "email": "sneha.iyer@campus.edu",
+    "department": "ECE",
+    "year": 2,
+    "cgpa": 8.3,
+    "attendance_pct": 88,
+    "interests": [
+      "embedded systems",
+      "robotics",
+      "IoT"
+    ],
+    "status": "active",
+    "backlogs": 0,
+    "semester_gpa": [
+      {
+        "semester": 1,
+        "credits": 24,
+        "sgpa": 8.32
+      },
+      {
+        "semester": 2,
+        "credits": 23,
+        "sgpa": 8.01
+      },
+      {
+        "semester": 3,
+        "credits": 23,
+        "sgpa": 8.56
+      }
+    ]
+  },
+  {
+    "id": "S2023007",
+    "name": "Rahul Verma",
+    "email": "rahul.verma@campus.edu",
+    "department": "MECH",
+    "year": 1,
+    "cgpa": 8.0,
+    "attendance_pct": 95,
+    "interests": [
+      "CAD",
+      "3D printing",
+      "robotics"
+    ],
+    "status": "active",
+    "backlogs": 0,
+    "semester_gpa": [
+      {
+        "semester": 1,
+        "credits": 20,
+        "sgpa": 8.0
+      }
+    ]
+  },
+  {
+    "id": "S2023008",
+    "name": "Fatima Khan",
+    "email": "fatima.khan@campus.edu",
+    "department": "CSE",
+    "year": 3,
+    "cgpa": 7.2,
+    "attendance_pct": 58,
+    "interests": [
+      "cloud",
+      "cybersecurity"
+    ],
+    "status": "warning",
+    "backlogs": 1,
+    "semester_gpa": [
+      {
+        "semester": 1,
+        "credits": 20,
+        "sgpa": 6.81
+      },
+      {
+        "semester": 2,
+        "credits": 20,
+        "sgpa": 7.21
+      },
+      {
+        "semester": 3,
+        "credits": 21,
+        "sgpa": 6.98
+      },
+      {
+        "semester": 4,
+        "credits": 22,
+        "sgpa": 7.44
+      },
+      {
+        "semester": 5,
+        "credits": 20,
+        "sgpa": 7.55
+      }
+    ]
+  },
+  {
+    "id": "S2023009",
+    "name": "Vikram Singh",
+    "email": "vikram.singh@campus.edu",
+    "department": "CIVIL",
+    "year": 4,
+    "cgpa": 8.5,
+    "attendance_pct": 91,
+    "interests": [
+      "project management",
+      "entrepreneurship"
+    ],
+    "status": "active",
+    "backlogs": 0,
+    "semester_gpa": [
+      {
+        "semester": 1,
+        "credits": 24,
+        "sgpa": 7.97
+      },
+      {
+        "semester": 2,
+        "credits": 20,
+        "sgpa": 8.26
+      },
+      {
+        "semester": 3,
+        "credits": 20,
+        "sgpa": 8.24
+      },
+      {
+        "semester": 4,
+        "credits": 22,
+        "sgpa": 8.82
+      },
+      {
+        "semester": 5,
+        "credits": 23,
+        "sgpa": 8.61
+      },
+      {
+        "semester": 6,
+        "credits": 22,
+        "sgpa": 8.94
+      },
+      {
+        "semester": 7,
+        "credits": 24,
+        "sgpa": 8.64
+      }
+    ]
+  },
+  {
+    "id": "S2023010",
+    "name": "Neha Joshi",
+    "email": "neha.joshi@campus.edu",
+    "department": "IT",
+    "year": 2,
+    "cgpa": 9.1,
+    "attendance_pct": 99,
+    "interests": [
+      "machine learning",
+      "data science",
+      "Python"
+    ],
+    "status": "active",
+    "backlogs": 0,
+    "semester_gpa": [
+      {
+        "semester": 1,
+        "credits": 21,
+        "sgpa": 9.19
+      },
+      {
+        "semester": 2,
+        "credits": 23,
+        "sgpa": 9.08
+      },
+      {
+        "semester": 3,
+        "credits": 20,
+        "sgpa": 9.03
+      }
+    ]
+  },
+  {
+    "id": "S2023011",
+    "name": "Aisha Noor",
+    "email": "aisha.noor@campus.edu",
+    "department": "CSE",
+    "year": 3,
+    "cgpa": 8.0,
+    "attendance_pct": 75,
+    "interests": [
+      "AI",
+      "Python",
+      "hackathons"
+    ],
+    "status": "active",
+    "backlogs": 0,
+    "semester_gpa": [
+      {
+        "semester": 1,
+        "credits": 23,
+        "sgpa": 7.53
+      },
+      {
+        "semester": 2,
+        "credits": 23,
+        "sgpa": 7.87
+      },
+      {
+        "semester": 3,
+        "credits": 21,
+        "sgpa": 8.18
+      },
+      {
+        "semester": 4,
+        "credits": 22,
+        "sgpa": 8.0
+      },
+      {
+        "semester": 5,
+        "credits": 23,
+        "sgpa": 8.44
+      }
+    ]
+  },
+  {
+    "id": "S2023012",
+    "name": "Aditya Rao",
+    "email": "aditya.rao@campus.edu",
+    "department": "ECE",
+    "year": 4,
+    "cgpa": 7.1,
+    "attendance_pct": 82,
+    "interests": [
+      "embedded systems",
+      "robotics"
+    ],
+    "status": "inactive",
+    "backlogs": 0,
+    "semester_gpa": [
+      {
+        "semester": 1,
+        "credits": 20,
+        "sgpa": 6.72
+      },
+      {
+        "semester": 2,
+        "credits": 23,
+        "sgpa": 6.74
+      },
+      {
+        "semester": 3,
+        "credits": 21,
+        "sgpa": 7.3
+      },
+      {
+        "semester": 4,
+        "credits": 22,
+        "sgpa": 7.15
+      },
+      {
+        "semester": 5,
+        "credits": 24,
+        "sgpa": 7.1
+      },
+      {
+        "semester": 6,
+        "credits": 24,
+        "sgpa": 7.16
+      },
+      {
+        "semester": 7,
+        "credits": 20,
+        "sgpa": 7.56
+      }
+    ]
+  },
+  {
+    "id": "S2023013",
+    "name": "Meera Nair",
+    "email": "meera.nair@campus.edu",
+    "department": "IT",
+    "year": 3,
+    "cgpa": 6.9,
+    "attendance_pct": 87,
+    "interests": [
+      "cloud",
+      "web development"
+    ],
+    "status": "active",
+    "backlogs": 4,
+    "semester_gpa": [
+      {
+        "semester": 1,
+        "credits": 23,
+        "sgpa": 6.72
+      },
+      {
+        "semester": 2,
+        "credits": 24,
+        "sgpa": 6.74
+      },
+      {
+        "semester": 3,
+        "credits": 24,
+        "sgpa": 7.09
+      },
+      {
+        "semester": 4,
+        "credits": 21,
+        "sgpa": 7.13
+      },
+      {
+        "semester": 5,
+        "credits": 20,
+        "sgpa": 6.84
+      }
+    ]
+  },
+  {
+    "id": "S2023014",
+    "name": "Harsh Agarwal",
+    "email": "harsh.agarwal@campus.edu",
+    "department": "CSE",
+    "year": 4,
+    "cgpa": 9.2,
+    "attendance_pct": 94,
+    "interests": [
+      "competitive programming",
+      "system design"
+    ],
+    "status": "active",
+    "backlogs": 0,
+    "placement_status": "placed",
+    "semester_gpa": [
+      {
+        "semester": 1,
+        "credits": 21,
+        "sgpa": 8.76
+      },
+      {
+        "semester": 2,
+        "credits": 21,
+        "sgpa": 9.07
+      },
+      {
+        "semester": 3,
+        "credits": 21,
+        "sgpa": 9.02
+      },
+      {
+        "semester": 4,
+        "credits": 22,
+        "sgpa": 9.0
+      },
+      {
+        "semester": 5,
+        "credits": 20,
+        "sgpa": 9.72
+      },
+      {
+        "semester": 6,
+        "credits": 21,
+        "sgpa": 9.18
+      },
+      {
+        "semester": 7,
+        "credits": 24,
+        "sgpa": 9.61
+      }
+    ]
+  },
+  {
+    "id": "S2023015",
+    "name": "Nikhil Das",
+    "email": "nikhil.das@campus.edu",
+    "department": "MECH",
+    "year": 2,
+    "cgpa": 5.8,
+    "attendance_pct": 62,
+    "interests": [
+      "automobile",
+      "CAD"
+    ],
+    "status": "warning",
+    "backlogs": 5,
+    "semester_gpa": [
+      {
+        "semester": 1,
+        "credits": 24,
+        "sgpa": 5.81
+      },
+      {
+        "semester": 2,
+        "credits": 22,
+        "sgpa": 5.58
+      },
+      {
+        "semester": 3,
+        "credits": 23,
+        "sgpa": 6.0
+      }
+    ]
+  },
+  {
+    "id": "S2023016",
+    "name": "Sara Fernandes",
+    "email": "sara.fernandes@campus.edu",
+    "department": "CIVIL",
+    "year": 1,
+    "cgpa": 9.5,
+    "attendance_pct": 100,
+    "interests": [
+      "environment",
+      "sustainability"
+    ],
+    "status": "active",
+    "backlogs": 0,
+    "semester_gpa": [
+      {
+        "semester": 1,
+        "credits": 21,
+        "sgpa": 9.5
+      }
+    ]
+  },
+  {
+    "id": "S2023017",
+    "name": "Yash Kulkarni",
+    "email": "yash.kulkarni@campus.edu",
+    "department": "IT",
+    "year": 4,
+    "cgpa": 8.4,
+    "attendance_pct": 75,
+    "interests": [
+      "cybersecurity",
+      "networking"
+    ],
+    "status": "active",
+    "backlogs": 1,
+    "semester_gpa": [
+      {
+        "semester": 1,
+        "credits": 24,
+        "sgpa": 7.98
+      },
+      {
+        "semester": 2,
+        "credits": 24,
+        "sgpa": 8.12
+      },
+      {
+        "semester": 3,
+        "credits": 22,
+        "sgpa": 8.57
+      },
+      {
+        "semester": 4,
+        "credits": 23,
+        "sgpa": 8.12
+      },
+      {
+        "semester": 5,
+        "credits": 21,
+        "sgpa": 8.45
+      },
+      {
+        "semester": 6,
+        "credits": 23,
+        "sgpa": 8.71
+      },
+      {
+        "semester": 7,
+        "credits": 20,
+        "sgpa": 8.97
+      }
+    ]
+  },
+  {
+    "id": "S2023018",
+    "name": "Riya Kapoor",
+    "email": "riya.kapoor@campus.edu",
+    "department": "BBA",
+    "year": 2,
+    "cgpa": 8.6,
+    "attendance_pct": 90,
+    "interests": [
+      "public speaking",
+      "debate",
+      "event management"
+    ],
+    "status": "active",
+    "backlogs": 0,
+    "semester_gpa": [
+      {
+        "semester": 1,
+        "credits": 24,
+        "sgpa": 8.68
+      },
+      {
+        "semester": 2,
+        "credits": 24,
+        "sgpa": 8.18
+      },
+      {
+        "semester": 3,
+        "credits": 24,
+        "sgpa": 8.94
+      }
+    ]
+  }
+]

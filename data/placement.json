@@ -1,0 +1,98 @@
+[
+  {
+    "id": "P001",
+    "company": "Google",
+    "role": "Software Engineer Intern",
+    "package_lpa": 45.0,
+    "eligibility_cgpa": 8.5,
+    "eligible_departments": ["CSE", "IT"],
+    "drive_date": "2026-09-15",
+    "location": "Bangalore",
+    "application_deadline": "2026-09-10",
+    "status": "open"
+  },
+  {
+    "id": "P002",
+    "company": "Microsoft",
+    "role": "Software Engineer",
+    "package_lpa": 38.0,
+    "eligibility_cgpa": 8.0,
+    "eligible_departments": ["CSE", "IT", "ECE"],
+    "drive_date": "2026-09-20",
+    "location": "Hyderabad",
+    "application_deadline": "2026-09-16",
+    "status": "open"
+  },
+  {
+    "id": "P003",
+    "company": "Amazon",
+    "role": "SDE I",
+    "package_lpa": 32.0,
+    "eligibility_cgpa": 7.5,
+    "eligible_departments": ["CSE", "IT"],
+    "drive_date": "2026-09-25",
+    "location": "Bangalore",
+    "application_deadline": "2026-09-20",
+    "status": "upcoming"
+  },
+  {
+    "id": "P004",
+    "company": "TCS",
+    "role": "Systems Engineer",
+    "package_lpa": 7.2,
+    "eligibility_cgpa": 6.0,
+    "eligible_departments": ["CSE", "IT", "ECE", "MECH", "CIVIL"],
+    "drive_date": "2026-10-02",
+    "location": "Multiple",
+    "application_deadline": "2026-09-28",
+    "status": "open"
+  },
+  {
+    "id": "P005",
+    "company": "Infosys",
+    "role": "Digital Specialist Engineer",
+    "package_lpa": 9.5,
+    "eligibility_cgpa": 6.5,
+    "eligible_departments": ["CSE", "IT", "ECE"],
+    "drive_date": "2026-10-05",
+    "location": "Mysore",
+    "application_deadline": "2026-10-01",
+    "status": "closed"
+  },
+  {
+    "id": "P006",
+    "company": "Adobe",
+    "role": "Software Engineer",
+    "package_lpa": 30.0,
+    "eligibility_cgpa": 8.0,
+    "eligible_departments": ["CSE", "IT"],
+    "drive_date": "2026-10-08",
+    "location": "Noida",
+    "application_deadline": "2026-10-04",
+    "status": "upcoming"
+  },
+  {
+    "id": "P007",
+    "company": "Deloitte",
+    "role": "Business Technology Analyst",
+    "package_lpa": 8.5,
+    "eligibility_cgpa": 6.5,
+    "eligible_departments": ["CSE", "IT", "ECE", "BBA"],
+    "drive_date": "2026-10-10",
+    "location": "Hyderabad",
+    "application_deadline": "2026-10-06",
+    "status": "open"
+  },
+  {
+    "id": "P008",
+    "company": "Accenture",
+    "role": "Associate Software Engineer",
+    "package_lpa": 6.5,
+    "eligibility_cgpa": 6.0,
+    "eligible_departments": ["CSE", "IT", "ECE", "MECH", "CIVIL"],
+    "drive_date": "2026-10-15",
+    "location": "Multiple",
+    "application_deadline": "2026-10-10",
+    "status": "open"
+  }
+]

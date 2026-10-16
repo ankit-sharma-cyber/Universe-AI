@@ -1,0 +1,30 @@
+[
+  {
+    "id": "GRV001",
+    "category": "Hostel",
+    "subject": "WiFi not working in Boys Hostel A Room 204",
+    "status": "In Progress",
+    "last_updated": "2026-08-05"
+  },
+  {
+    "id": "GRV002",
+    "category": "Library",
+    "subject": "AC not working in 3rd floor reading room",
+    "status": "Open",
+    "last_updated": "2026-08-06"
+  },
+  {
+    "id": "GRV003",
+    "category": "Transport",
+    "subject": "Bus TRN002 arrives 20 mins late consistently",
+    "status": "Resolved",
+    "last_updated": "2026-08-04"
+  },
+  {
+    "id": "GRV004",
+    "category": "Scholarship",
+    "subject": "Merit Scholarship amount not credited",
+    "status": "In Progress",
+    "last_updated": "2026-08-07"
+  }
+]

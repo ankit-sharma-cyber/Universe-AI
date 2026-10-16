@@ -1,0 +1,74 @@
+[
+  {
+    "id": "H001",
+    "name": "Boys Hostel A",
+    "type": "Boys",
+    "capacity": 300,
+    "occupied": 287,
+    "warden": "Mr. Rajesh Kumar",
+    "contact": "+91-9876543201"
+  },
+  {
+    "id": "H002",
+    "name": "Boys Hostel B",
+    "type": "Boys",
+    "capacity": 250,
+    "occupied": 221,
+    "warden": "Mr. Sanjay Rao",
+    "contact": "+91-9876543202"
+  },
+  {
+    "id": "H003",
+    "name": "Girls Hostel A",
+    "type": "Girls",
+    "capacity": 280,
+    "occupied": 274,
+    "warden": "Mrs. Anita Sharma",
+    "contact": "+91-9876543203"
+  },
+  {
+    "id": "H004",
+    "name": "Girls Hostel B",
+    "type": "Girls",
+    "capacity": 220,
+    "occupied": 198,
+    "warden": "Mrs. Kavita Menon",
+    "contact": "+91-9876543204"
+  },
+  {
+    "id": "H005",
+    "name": "International Hostel",
+    "type": "Co-ed",
+    "capacity": 120,
+    "occupied": 86,
+    "warden": "Dr. Vivek Nair",
+    "contact": "+91-9876543205"
+  },
+  {
+    "id": "H006",
+    "name": "PG Research Hostel",
+    "type": "Co-ed",
+    "capacity": 100,
+    "occupied": 79,
+    "warden": "Dr. Farah Ali",
+    "contact": "+91-9876543206"
+  },
+  {
+    "id": "H007",
+    "name": "New Boys Hostel",
+    "type": "Boys",
+    "capacity": 350,
+    "occupied": 312,
+    "warden": "Mr. Ashok Patil",
+    "contact": "+91-9876543207"
+  },
+  {
+    "id": "H008",
+    "name": "New Girls Hostel",
+    "type": "Girls",
+    "capacity": 300,
+    "occupied": 267,
+    "warden": "Mrs. Deepa Rao",
+    "contact": "+91-9876543208"
+  }
+]

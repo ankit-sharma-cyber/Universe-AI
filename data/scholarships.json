@@ -1,0 +1,34 @@
+[
+  {
+    "id": "SCH001",
+    "name": "Merit Scholarship",
+    "amount": 50000,
+    "eligibility": "CGPA >= 9.0",
+    "deadline": "2026-09-30",
+    "department": "ALL"
+  },
+  {
+    "id": "SCH002",
+    "name": "Sports Excellence Award",
+    "amount": 25000,
+    "eligibility": "State/national level sports participation",
+    "deadline": "2026-10-15",
+    "department": "ALL"
+  },
+  {
+    "id": "SCH003",
+    "name": "Research Fellowship",
+    "amount": 75000,
+    "eligibility": "Year 4 CSE/ECE with publication",
+    "deadline": "2026-11-01",
+    "department": "CSE"
+  },
+  {
+    "id": "SCH004",
+    "name": "Need-Based Grant",
+    "amount": 30000,
+    "eligibility": "Family income below 5 LPA",
+    "deadline": "2026-09-15",
+    "department": "ALL"
+  }
+]

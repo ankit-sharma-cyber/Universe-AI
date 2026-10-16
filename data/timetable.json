@@ -1,0 +1,137 @@
+[
+  {
+    "day": "Monday",
+    "code": "CS301",
+    "start": "09:00",
+    "end": "10:30",
+    "room": "LB-204",
+    "building": "Lecture Block",
+    "instructor": "Dr. Rao"
+  },
+  {
+    "day": "Monday",
+    "code": "CS302",
+    "start": "11:00",
+    "end": "12:30",
+    "room": "LB-108",
+    "building": "Lecture Block",
+    "instructor": "Prof. Nair"
+  },
+  {
+    "day": "Monday",
+    "code": "CS305",
+    "start": "14:00",
+    "end": "15:30",
+    "room": "LB-301",
+    "building": "Lecture Block",
+    "instructor": "Dr. Kulkarni"
+  },
+  {
+    "day": "Tuesday",
+    "code": "CS303",
+    "start": "09:00",
+    "end": "10:30",
+    "room": "LB-102",
+    "building": "Lecture Block",
+    "instructor": "Prof. Iyer"
+  },
+  {
+    "day": "Tuesday",
+    "code": "CS301",
+    "start": "11:00",
+    "end": "12:30",
+    "room": "LB-204",
+    "building": "Lecture Block",
+    "instructor": "Dr. Rao"
+  },
+  {
+    "day": "Tuesday",
+    "code": "CS304",
+    "start": "14:00",
+    "end": "15:30",
+    "room": "LB-110",
+    "building": "Lecture Block",
+    "instructor": "Dr. Menon"
+  },
+  {
+    "day": "Wednesday",
+    "code": "CS302",
+    "start": "09:00",
+    "end": "10:30",
+    "room": "LB-108",
+    "building": "Lecture Block",
+    "instructor": "Prof. Nair"
+  },
+  {
+    "day": "Wednesday",
+    "code": "CS305",
+    "start": "11:00",
+    "end": "12:30",
+    "room": "LB-301",
+    "building": "Lecture Block",
+    "instructor": "Dr. Kulkarni"
+  },
+  {
+    "day": "Wednesday",
+    "code": "CS310",
+    "start": "14:00",
+    "end": "15:30",
+    "room": "LB-205",
+    "building": "Lecture Block",
+    "instructor": "Dr. Vasudev"
+  },
+  {
+    "day": "Thursday",
+    "code": "CS303",
+    "start": "09:00",
+    "end": "10:30",
+    "room": "LB-102",
+    "building": "Lecture Block",
+    "instructor": "Prof. Iyer"
+  },
+  {
+    "day": "Thursday",
+    "code": "CS304",
+    "start": "11:00",
+    "end": "12:30",
+    "room": "LB-110",
+    "building": "Lecture Block",
+    "instructor": "Dr. Menon"
+  },
+  {
+    "day": "Thursday",
+    "code": "CS310",
+    "start": "14:00",
+    "end": "15:30",
+    "room": "LB-205",
+    "building": "Lecture Block",
+    "instructor": "Dr. Vasudev"
+  },
+  {
+    "day": "Friday",
+    "code": "CS301",
+    "start": "09:00",
+    "end": "10:30",
+    "room": "LB-204",
+    "building": "Lecture Block",
+    "instructor": "Dr. Rao"
+  },
+  {
+    "day": "Friday",
+    "code": "CS302",
+    "start": "11:00",
+    "end": "12:30",
+    "room": "LB-108",
+    "building": "Lecture Block",
+    "instructor": "Prof. Nair"
+  },
+  {
+    "day": "Friday",
+    "code": "CS310",
+    "start": "14:00",
+    "end": "15:30",
+    "room": "LB-205",
+    "building": "Lecture Block",
+    "instructor": "Dr. Vasudev"
+  }
+]

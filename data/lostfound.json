@@ -1,0 +1,74 @@
+[
+  {
+    "id": "LF001",
+    "item": "Black Wallet",
+    "category": "Wallet",
+    "location": "Library",
+    "date_reported": "2026-08-02",
+    "contact": "security@campus.edu",
+    "status": "lost"
+  },
+  {
+    "id": "LF002",
+    "item": "Apple AirPods",
+    "category": "Electronics",
+    "location": "CS Lab 2",
+    "date_reported": "2026-08-03",
+    "contact": "security@campus.edu",
+    "status": "found"
+  },
+  {
+    "id": "LF003",
+    "item": "Student ID Card",
+    "category": "ID Card",
+    "location": "Cafeteria",
+    "date_reported": "2026-08-04",
+    "contact": "security@campus.edu",
+    "status": "found"
+  },
+  {
+    "id": "LF004",
+    "item": "Blue Water Bottle",
+    "category": "Bottle",
+    "location": "Auditorium",
+    "date_reported": "2026-08-05",
+    "contact": "security@campus.edu",
+    "status": "lost"
+  },
+  {
+    "id": "LF005",
+    "item": "Scientific Calculator",
+    "category": "Electronics",
+    "location": "Exam Hall",
+    "date_reported": "2026-08-05",
+    "contact": "security@campus.edu",
+    "status": "found"
+  },
+  {
+    "id": "LF006",
+    "item": "House Keys",
+    "category": "Keys",
+    "location": "Parking Lot",
+    "date_reported": "2026-08-06",
+    "contact": "security@campus.edu",
+    "status": "lost"
+  },
+  {
+    "id": "LF007",
+    "item": "Grey Backpack",
+    "category": "Bag",
+    "location": "Innovation Hub",
+    "date_reported": "2026-08-06",
+    "contact": "security@campus.edu",
+    "status": "found"
+  },
+  {
+    "id": "LF008",
+    "item": "Samsung Phone",
+    "category": "Electronics",
+    "location": "Seminar Hall A",
+    "date_reported": "2026-08-07",
+    "contact": "security@campus.edu",
+    "status": "lost"
+  }
+]

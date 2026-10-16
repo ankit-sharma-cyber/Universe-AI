@@ -1,0 +1,92 @@
+[
+  {
+    "id": "F001",
+    "question": "How do I apply for a bonafide certificate?",
+    "answer": "Apply through the student portal or visit the academic office.",
+    "category": "academics"
+  },
+  {
+    "id": "F002",
+    "question": "How many attendance percentage is required?",
+    "answer": "Students must maintain at least 75% attendance.",
+    "category": "academics"
+  },
+  {
+    "id": "F003",
+    "question": "Where is the placement cell located?",
+    "answer": "Placement Cell, Administrative Block, 2nd Floor.",
+    "category": "placements"
+  },
+  {
+    "id": "F004",
+    "question": "How do I join a club?",
+    "answer": "Visit the Clubs page or contact the club president.",
+    "category": "clubs"
+  },
+  {
+    "id": "F005",
+    "question": "What is the library timing?",
+    "answer": "8:00 AM to 10:00 PM on all working days.",
+    "category": "library"
+  },
+  {
+    "id": "F006",
+    "question": "How do I reset my student portal password?",
+    "answer": "Use the Forgot Password option on the login page.",
+    "category": "portal"
+  },
+  {
+    "id": "F007",
+    "question": "Where can I find my timetable?",
+    "answer": "Your timetable is available under Academics in the student portal.",
+    "category": "academics"
+  },
+  {
+    "id": "F008",
+    "question": "How can I apply for hostel accommodation?",
+    "answer": "Submit the hostel application form through the hostel office.",
+    "category": "hostel"
+  },
+  {
+    "id": "F009",
+    "question": "Can first-year students bring vehicles?",
+    "answer": "Only with prior permission from the administration.",
+    "category": "campus"
+  },
+  {
+    "id": "F010",
+    "question": "Where is the medical center?",
+    "answer": "Ground floor of the Student Welfare Building.",
+    "category": "health"
+  },
+  {
+    "id": "F011",
+    "question": "How do I register for campus events?",
+    "answer": "Open the Events section and click Register.",
+    "category": "events"
+  },
+  {
+    "id": "F012",
+    "question": "How can I view my CGPA?",
+    "answer": "Your CGPA is displayed in the student dashboard.",
+    "category": "academics"
+  },
+  {
+    "id": "F013",
+    "question": "Can alumni access placement drives?",
+    "answer": "Only selected drives are open to alumni.",
+    "category": "placements"
+  },
+  {
+    "id": "F014",
+    "question": "How do I report a lost ID card?",
+    "answer": "Report it immediately to Student Affairs.",
+    "category": "campus"
+  },
+  {
+    "id": "F015",
+    "question": "Where can I find examination schedules?",
+    "answer": "The examination schedule is published in the Academics section.",
+    "category": "exams"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "id": "FAC001",
+    "name": "Dr. Anil Rao",
+    "department": "CSE",
+    "designation": "Professor",
+    "email": "anil.rao@campus.edu",
+    "office": "LB-301"
+  },
+  {
+    "id": "FAC002",
+    "name": "Prof. Meera Nair",
+    "department": "CSE",
+    "designation": "Associate Professor",
+    "email": "meera.nair@campus.edu",
+    "office": "LB-304"
+  },
+  {
+    "id": "FAC003",
+    "name": "Dr. Kavita Menon",
+    "department": "CSE",
+    "designation": "Assistant Professor",
+    "email": "kavita.menon@campus.edu",
+    "office": "LB-210"
+  },
+  {
+    "id": "FAC004",
+    "name": "Dr. Rakesh Iyer",
+    "department": "CSE",
+    "designation": "Professor",
+    "email": "rakesh.iyer@campus.edu",
+    "office": "LB-315"
+  },
+  {
+    "id": "FAC005",
+    "name": "Dr. Vivek Kulkarni",
+    "department": "CSE",
+    "designation": "Associate Professor",
+    "email": "vivek.kulkarni@campus.edu",
+    "office": "LB-309"
+  },
+  {
+    "id": "FAC006",
+    "name": "Dr. Suresh Patil",
+    "department": "ECE",
+    "designation": "Professor",
+    "email": "suresh.patil@campus.edu",
+    "office": "EC-201"
+  },
+  {
+    "id": "FAC007",
+    "name": "Prof. Anita Sharma",
+    "department": "ECE",
+    "designation": "Assistant Professor",
+    "email": "anita.sharma@campus.edu",
+    "office": "EC-205"
+  },
+  {
+    "id": "FAC008",
+    "name": "Dr. Rahul Verma",
+    "department": "ECE",
+    "designation": "Associate Professor",
+    "email": "rahul.verma@campus.edu",
+    "office": "EC-210"
+  },
+  {
+    "id": "FAC009",
+    "name": "Dr. Priya Desai",
+    "department": "IT",
+    "designation": "Professor",
+    "email": "priya.desai@campus.edu",
+    "office": "IT-103"
+  },
+  {
+    "id": "FAC010",
+    "name": "Prof. Arvind Joshi",
+    "department": "IT",
+    "designation": "Assistant Professor",
+    "email": "arvind.joshi@campus.edu",
+    "office": "IT-108"
+  },
+  {
+    "id": "FAC011",
+    "name": "Dr. Neha Kapoor",
+    "department": "IT",
+    "designation": "Associate Professor",
+    "email": "neha.kapoor@campus.edu",
+    "office": "IT-112"
+  },
+  {
+    "id": "FAC012",
+    "name": "Dr. Ashok Reddy",
+    "department": "MECH",
+    "designation": "Professor",
+    "email": "ashok.reddy@campus.edu",
+    "office": "ME-201"
+  },
+  {
+    "id": "FAC013",
+    "name": "Prof. Rohit Malhotra",
+    "department": "MECH",
+    "designation": "Assistant Professor",
+    "email": "rohit.malhotra@campus.edu",
+    "office": "ME-204"
+  },
+  {
+    "id": "FAC014",
+    "name": "Dr. Sneha Gupta",
+    "department": "CIVIL",
+    "designation": "Professor",
+    "email": "sneha.gupta@campus.edu",
+    "office": "CV-101"
+  },
+  {
+    "id": "FAC015",
+    "name": "Prof. Kiran Bhat",
+    "department": "CIVIL",
+    "designation": "Assistant Professor",
+    "email": "kiran.bhat@campus.edu",
+    "office": "CV-105"
+  },
+  {
+    "id": "FAC016",
+    "name": "Dr. Pooja Agarwal",
+    "department": "BBA",
+    "designation": "Professor",
+    "email": "pooja.agarwal@campus.edu",
+    "office": "BA-201"
+  },
+  {
+    "id": "FAC017",
+    "name": "Prof. Nitin Khanna",
+    "department": "BBA",
+    "designation": "Associate Professor",
+    "email": "nitin.khanna@campus.edu",
+    "office": "BA-205"
+  },
+  {
+    "id": "FAC018",
+    "name": "Dr. Farah Ali",
+    "department": "CSE",
+    "designation": "Assistant Professor",
+    "email": "farah.ali@campus.edu",
+    "office": "LB-218"
+  },
+  {
+    "id": "FAC019",
+    "name": "Prof. Sanjay Kumar",
+    "department": "ECE",
+    "designation": "Associate Professor",
+    "email": "sanjay.kumar@campus.edu",
+    "office": "EC-212"
+  },
+  {
+    "id": "FAC020",
+    "name": "Dr. Deepa Nair",
+    "department": "IT",
+    "designation": "Professor",
+    "email": "deepa.nair@campus.edu",
+    "office": "IT-115"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "TRN001",
+    "route": "North Campus → Main Gate",
+    "timing": "08:00, 12:00, 17:00",
+    "vehicle_type": "Bus",
+    "capacity": 40,
+    "contact": "transport@campus.edu"
+  },
+  {
+    "id": "TRN002",
+    "route": "Hostel Complex → Academic Block",
+    "timing": "07:30, 13:30, 18:30",
+    "vehicle_type": "Bus",
+    "capacity": 40,
+    "contact": "transport@campus.edu"
+  },
+  {
+    "id": "TRN003",
+    "route": "Railway Station → Campus",
+    "timing": "06:00, 14:00, 20:00",
+    "vehicle_type": "Shuttle",
+    "capacity": 20,
+    "contact": "transport@campus.edu"
+  },
+  {
+    "id": "TRN004",
+    "route": "Airport → Campus",
+    "timing": "05:00, 15:00, 21:00",
+    "vehicle_type": "Shuttle",
+    "capacity": 20,
+    "contact": "transport@campus.edu"
+  }
+]

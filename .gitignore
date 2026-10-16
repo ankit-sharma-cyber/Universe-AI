@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.pytest_cache/
+*.egg-info/
+
+# Node / React
+ui/node_modules/
+ui/dist/
+ui/.env
+
+# Data artifacts
+rag/.chroma/
+data/campus.db
+*.db
+*.sqlite3
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/

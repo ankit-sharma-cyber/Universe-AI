@@ -1,0 +1,765 @@
+[
+  {
+    "student_id": "S2023001",
+    "assignment_id": "A048",
+    "submitted_at": "2026-07-19",
+    "marks": 16,
+    "status": "graded"
+  },
+  {
+    "student_id": "S2023001",
+    "assignment_id": "A013",
+    "submitted_at": "2026-07-24",
+    "marks": 15,
+    "status": "graded"
+  },
+  {
+    "student_id": "S2023001",
+    "assignment_id": "A003",
+    "submitted_at": "2026-08-01",
+    "marks": null,
+    "status": "submitted"
+  },
+  {
+    "student_id": "S2023001",
+    "assignment_id": "A014",
+    "submitted_at": "2026-08-03",
+    "marks": null,
+    "status": "submitted"
+  },
+  {
+    "student_id": "S2023001",
+    "assignment_id": "A005",
+    "submitted_at": "2026-08-03",
+    "marks": null,
+    "status": "submitted"
+  },
+  {
+    "student_id": "S2023001",
+    "assignment_id": "A010",
+    "submitted_at": "2026-08-01",
+    "marks": null,
+    "status": "submitted"
+  },
+  {
+    "student_id": "S2023001",
+    "assignment_id": "A009",
+    "submitted_at": "2026-08-07",
+    "marks": null,
+    "status": "submitted"
+  },
+  {
+    "student_id": "S2023001",
+    "assignment_id": "A008",
+    "submitted_at": "2026-08-09",
+    "marks": null,
+    "status": "submitted"
+  },
+  {
+    "student_id": "S2023001",
+    "assignment_id": "A012",
+    "submitted_at": "2026-08-11",
+    "marks": null,
+    "status": "submitted"
+  },
+  {
+    "student_id": "S2023001",
+    "assignment_id": "A049",
+    "submitted_at": "2026-08-12",
+    "marks": null,
+    "status": "submitted"
+  },
+  {
+    "student_id": "S2023001",
+    "assignment_id": "A011",
+    "submitted_at": "2026-08-16",
+    "marks": null,
+    "status": "submitted"
+  },
+  {
+    "student_id": "S2023001",
+    "assignment_id": "A006",
+    "submitted_at": "2026-08-20",
+    "marks": null,
+    "status": "submitted"
+  },
+  {
+    "student_id": "S2023002",
+    "assignment_id": "A001",
+    "submitted_at": "2026-07-03",
+    "marks": 36,
+    "status": "graded"
+  },
+  {
+    "student_id": "S2023002",
+    "assignment_id": "A048",
+    "submitted_at": "2026-07-19",
+    "marks": 14,
+    "status": "graded"
+  },
+  {
+    "student_id": "S2023002",
+    "assignment_id": "A013",
+    "submitted_at": "2026-07-24",
+    "marks": 14,
+    "status": "graded"
+  },
+  {
+    "student_id": "S2023002",
+    "assignment_id": "A014",
+    "submitted_at": "2026-07-31",
+    "marks": null,
+    "status": "submitted"
+  },
+  {
+    "student_id": "S2023002",
+    "assignment_id": "A005",
+    "submitted_at": "2026-08-04",
+    "marks": null,
+    "status": "submitted"
+  },
+  {
+    "student_id": "S2023002",
+    "assignment_id": "A010",
+    "submitted_at": "2026-08-02",
+    "marks": null,
+    "status": "submitted"
+  },
+  {
+    "student_id": "S2023002",
+    "assignment_id": "A009",
+    "submitted_at": "2026-08-06",
+    "marks": null,
+    "status": "submitted"
+  },
+  {
+    "student_id": "S2023002",
+    "assignment_id": "A004",
+    "submitted_at": "2026-08-09",
+    "marks": null,
+    "status": "submitted"
+  },
+  {
+    "student_id": "S2023002",
+    "assignment_id": "A049",
+    "submitted_at": "2026-08-13",
+    "marks": null,
+    "status": "submitted"
+  },
+  {
+    "student_id": "S2023003",
+    "assignment_id": "A020",
+    "submitted_at": "2026-07-10",
+    "marks": 8,
+    "status": "graded"
+  },
+  {
+    "student_id": "S2023003",
+    "assignment_id": "A021",
+    "submitted_at": "2026-07-21",
+    "marks": 44,
+    "status": "late"
+  },
+  {
+    "student_id": "S2023003",
+    "assignment_id": "A048",
+    "submitted_at": "2026-07-19",
+    "marks": 16,
+    "status": "graded"
+  },
+  {
+    "student_id": "S2023003",
+    "assignment_id": "A022",
+    "submitted_at": "2026-07-27",
+    "marks": 21,
+    "status": "graded"
+  },
+  {
+    "student_id": "S2023003",
+    "assignment_id": "A023",
+    "submitted_at": "2026-08-07",
+    "marks": null,
+    "status": "submitted"
+  },
+  {
+    "student_id": "S2023003",
+    "assignment_id": "A018",
+    "submitted_at": "2026-08-17",
+    "marks": null,
+    "status": "submitted"
+  },
+  {
+    "student_id": "S2023004",
+    "assignment_id": "A048",
+    "submitted_at": "2026-07-19",
+    "marks": 18,
+    "status": "graded"
+  },
+  {
+    "student_id": "S2023004",
+    "assignment_id": "A002",
+    "submitted_at": "2026-07-27",
+    "marks": 23,
+    "status": "graded"
+  },
+  {
+    "student_id": "S2023004",
+    "assignment_id": "A013",
+    "submitted_at": "2026-07-28",
+    "marks": 18,
+    "status": "late"
+  },
+  {
+    "student_id": "S2023004",
+    "assignment_id": "A003",
+    "submitted_at": "2026-07-31",
+    "marks": null,
+    "status": "submitted"
+  },
+  {
+    "student_id": "S2023004",
+    "assignment_id": "A014",
+    "submitted_at": "2026-08-04",
+    "marks": null,
+    "status": "late"
+  },
+  {
+    "student_id": "S2023004",
+    "assignment_id": "A005",
+    "submitted_at": "2026-08-01",
+    "marks": null,
+    "status": "submitted"
+  },
+  {
+    "student_id": "S2023004",
+    "assignment_id": "A009",
+    "submitted_at": "2026-08-07",
+    "marks": null,
+    "status": "submitted"
+  },
+  {
+    "student_id": "S2023004",
+    "assignment_id": "A049",
+    "submitted_at": "2026-08-13",
+    "marks": null,
+    "status": "submitted"
+  },
+  {
+    "student_id": "S2023004",
+    "assignment_id": "A006",
+    "submitted_at": "2026-08-20",
+    "marks": null,
+    "status": "submitted"
+  },
+  {
+    "student_id": "S2023005",
+    "assignment_id": "A024",
+    "submitted_at": "2026-07-20",
+    "marks": 34,
+    "status": "graded"
+  },
+  {
+    "student_id": "S2023005",
+    "assignment_id": "A028",
+    "submitted_at": "2026-08-08",
+    "marks": null,
+    "status": "submitted"
+  },
+  {
+    "student_id": "S2023005",
+    "assignment_id": "A049",
+    "submitted_at": "2026-08-12",
+    "marks": null,
+    "status": "submitted"
+  },
+  {
+    "student_id": "S2023006",
+    "assignment_id": "A020",
+    "submitted_at": "2026-07-10",
+    "marks": 8,
+    "status": "graded"
+  },
+  {
+    "student_id": "S2023006",
+    "assignment_id": "A021",
+    "submitted_at": "2026-07-19",
+    "marks": 35,
+    "status": "graded"
+  },
+  {
+    "student_id": "S2023006",
+    "assignment_id": "A048",
+    "submitted_at": "2026-07-20",
+    "marks": 15,
+    "status": "graded"
+  },
+  {
+    "student_id": "S2023006",
+    "assignment_id": "A022",
+    "submitted_at": "2026-07-28",
+    "marks": 21,
+    "status": "graded"
+  },
+  {
+    "student_id": "S2023007",
+    "assignment_id": "A048",
+    "submitted_at": "2026-07-18",
+    "marks": 14,
+    "status": "graded"
+  },
+  {
+    "student_id": "S2023007",
+    "assignment_id": "A033",
+    "submitted_at": "2026-08-02",
+    "marks": null,
+    "status": "submitted"
+  },
+  {
+    "student_id": "S2023008",
+    "assignment_id": "A002",
+    "submitted_at": "2026-07-24",
+    "marks": 16,
+    "status": "graded"
+  },
+  {
+    "student_id": "S2023008",
+    "assignment_id": "A013",
+    "submitted_at": "2026-07-27",
+    "marks": 12,
+    "status": "graded"
+  },
+  {
+    "student_id": "S2023008",
+    "assignment_id": "A003",
+    "submitted_at": "2026-08-04",
+    "marks": null,
+    "status": "late"
+  },
+  {
+    "student_id": "S2023008",
+    "assignment_id": "A014",
+    "submitted_at": "2026-08-01",
+    "marks": null,
+    "status": "submitted"
+  },
+  {
+    "student_id": "S2023008",
+    "assignment_id": "A005",
+    "submitted_at": "2026-08-02",
+    "marks": null,
+    "status": "submitted"
+  },
+  {
+    "student_id": "S2023008",
+    "assignment_id": "A009",
+    "submitted_at": "2026-08-07",
+    "marks": null,
+    "status": "submitted"
+  },
+  {
+    "student_id": "S2023008",
+    "assignment_id": "A012",
+    "submitted_at": "2026-08-11",
+    "marks": null,
+    "status": "submitted"
+  },
+  {
+    "student_id": "S2023009",
+    "assignment_id": "A048",
+    "submitted_at": "2026-07-17",
+    "marks": 14,
+    "status": "graded"
+  },
+  {
+    "student_id": "S2023009",
+    "assignment_id": "A040",
+    "submitted_at": "2026-08-04",
+    "marks": null,
+    "status": "submitted"
+  },
+  {
+    "student_id": "S2023009",
+    "assignment_id": "A038",
+    "submitted_at": "2026-08-31",
+    "marks": null,
+    "status": "submitted"
+  },
+  {
+    "student_id": "S2023010",
+    "assignment_id": "A024",
+    "submitted_at": "2026-07-19",
+    "marks": 39,
+    "status": "graded"
+  },
+  {
+    "student_id": "S2023010",
+    "assignment_id": "A048",
+    "submitted_at": "2026-07-21",
+    "marks": 18,
+    "status": "late"
+  },
+  {
+    "student_id": "S2023010",
+    "assignment_id": "A026",
+    "submitted_at": "2026-08-03",
+    "marks": null,
+    "status": "submitted"
+  },
+  {
+    "student_id": "S2023010",
+    "assignment_id": "A029",
+    "submitted_at": "2026-08-02",
+    "marks": null,
+    "status": "submitted"
+  },
+  {
+    "student_id": "S2023010",
+    "assignment_id": "A049",
+    "submitted_at": "2026-08-12",
+    "marks": null,
+    "status": "submitted"
+  },
+  {
+    "student_id": "S2023010",
+    "assignment_id": "A025",
+    "submitted_at": "2026-08-24",
+    "marks": null,
+    "status": "submitted"
+  },
+  {
+    "student_id": "S2023011",
+    "assignment_id": "A001",
+    "submitted_at": "2026-07-06",
+    "marks": 34,
+    "status": "graded"
+  },
+  {
+    "student_id": "S2023011",
+    "assignment_id": "A048",
+    "submitted_at": "2026-07-17",
+    "marks": 14,
+    "status": "graded"
+  },
+  {
+    "student_id": "S2023011",
+    "assignment_id": "A002",
+    "submitted_at": "2026-07-28",
+    "marks": 17,
+    "status": "late"
+  },
+  {
+    "student_id": "S2023011",
+    "assignment_id": "A013",
+    "submitted_at": "2026-07-25",
+    "marks": 16,
+    "status": "graded"
+  },
+  {
+    "student_id": "S2023011",
+    "assignment_id": "A003",
+    "submitted_at": "2026-08-02",
+    "marks": null,
+    "status": "submitted"
+  },
+  {
+    "student_id": "S2023011",
+    "assignment_id": "A014",
+    "submitted_at": "2026-08-01",
+    "marks": null,
+    "status": "submitted"
+  },
+  {
+    "student_id": "S2023011",
+    "assignment_id": "A005",
+    "submitted_at": "2026-08-04",
+    "marks": null,
+    "status": "submitted"
+  },
+  {
+    "student_id": "S2023011",
+    "assignment_id": "A010",
+    "submitted_at": "2026-08-02",
+    "marks": null,
+    "status": "submitted"
+  },
+  {
+    "student_id": "S2023011",
+    "assignment_id": "A009",
+    "submitted_at": "2026-08-06",
+    "marks": null,
+    "status": "submitted"
+  },
+  {
+    "student_id": "S2023011",
+    "assignment_id": "A049",
+    "submitted_at": "2026-08-11",
+    "marks": null,
+    "status": "submitted"
+  },
+  {
+    "student_id": "S2023011",
+    "assignment_id": "A011",
+    "submitted_at": "2026-08-15",
+    "marks": null,
+    "status": "submitted"
+  },
+  {
+    "student_id": "S2023012",
+    "assignment_id": "A020",
+    "submitted_at": "2026-07-13",
+    "marks": 7,
+    "status": "graded"
+  },
+  {
+    "student_id": "S2023012",
+    "assignment_id": "A021",
+    "submitted_at": "2026-07-18",
+    "marks": 29,
+    "status": "graded"
+  },
+  {
+    "student_id": "S2023012",
+    "assignment_id": "A048",
+    "submitted_at": "2026-07-18",
+    "marks": 14,
+    "status": "graded"
+  },
+  {
+    "student_id": "S2023012",
+    "assignment_id": "A022",
+    "submitted_at": "2026-07-25",
+    "marks": 17,
+    "status": "graded"
+  },
+  {
+    "student_id": "S2023012",
+    "assignment_id": "A018",
+    "submitted_at": "2026-08-18",
+    "marks": null,
+    "status": "submitted"
+  },
+  {
+    "student_id": "S2023012",
+    "assignment_id": "A019",
+    "submitted_at": "2026-08-23",
+    "marks": null,
+    "status": "submitted"
+  },
+  {
+    "student_id": "S2023013",
+    "assignment_id": "A024",
+    "submitted_at": "2026-07-21",
+    "marks": 28,
+    "status": "late"
+  },
+  {
+    "student_id": "S2023013",
+    "assignment_id": "A026",
+    "submitted_at": "2026-07-31",
+    "marks": null,
+    "status": "submitted"
+  },
+  {
+    "student_id": "S2023013",
+    "assignment_id": "A028",
+    "submitted_at": "2026-08-08",
+    "marks": null,
+    "status": "submitted"
+  },
+  {
+    "student_id": "S2023013",
+    "assignment_id": "A031",
+    "submitted_at": "2026-08-08",
+    "marks": null,
+    "status": "submitted"
+  },
+  {
+    "student_id": "S2023013",
+    "assignment_id": "A030",
+    "submitted_at": "2026-08-24",
+    "marks": null,
+    "status": "submitted"
+  },
+  {
+    "student_id": "S2023014",
+    "assignment_id": "A001",
+    "submitted_at": "2026-07-05",
+    "marks": 43,
+    "status": "graded"
+  },
+  {
+    "student_id": "S2023014",
+    "assignment_id": "A048",
+    "submitted_at": "2026-07-19",
+    "marks": 18,
+    "status": "graded"
+  },
+  {
+    "student_id": "S2023014",
+    "assignment_id": "A002",
+    "submitted_at": "2026-07-24",
+    "marks": 20,
+    "status": "graded"
+  },
+  {
+    "student_id": "S2023014",
+    "assignment_id": "A013",
+    "submitted_at": "2026-07-28",
+    "marks": 18,
+    "status": "late"
+  },
+  {
+    "student_id": "S2023014",
+    "assignment_id": "A003",
+    "submitted_at": "2026-08-02",
+    "marks": null,
+    "status": "submitted"
+  },
+  {
+    "student_id": "S2023014",
+    "assignment_id": "A014",
+    "submitted_at": "2026-08-01",
+    "marks": null,
+    "status": "submitted"
+  },
+  {
+    "student_id": "S2023014",
+    "assignment_id": "A005",
+    "submitted_at": "2026-08-04",
+    "marks": null,
+    "status": "submitted"
+  },
+  {
+    "student_id": "S2023014",
+    "assignment_id": "A010",
+    "submitted_at": "2026-08-03",
+    "marks": null,
+    "status": "submitted"
+  },
+  {
+    "student_id": "S2023014",
+    "assignment_id": "A009",
+    "submitted_at": "2026-08-07",
+    "marks": null,
+    "status": "submitted"
+  },
+  {
+    "student_id": "S2023014",
+    "assignment_id": "A016",
+    "submitted_at": "2026-08-08",
+    "marks": null,
+    "status": "submitted"
+  },
+  {
+    "student_id": "S2023014",
+    "assignment_id": "A011",
+    "submitted_at": "2026-08-14",
+    "marks": null,
+    "status": "submitted"
+  },
+  {
+    "student_id": "S2023015",
+    "assignment_id": "A032",
+    "submitted_at": "2026-07-05",
+    "marks": 10,
+    "status": "graded"
+  },
+  {
+    "student_id": "S2023015",
+    "assignment_id": "A034",
+    "submitted_at": "2026-07-17",
+    "marks": 11,
+    "status": "graded"
+  },
+  {
+    "student_id": "S2023015",
+    "assignment_id": "A048",
+    "submitted_at": "2026-07-18",
+    "marks": 9,
+    "status": "graded"
+  },
+  {
+    "student_id": "S2023015",
+    "assignment_id": "A033",
+    "submitted_at": "2026-08-05",
+    "marks": null,
+    "status": "late"
+  },
+  {
+    "student_id": "S2023016",
+    "assignment_id": "A040",
+    "submitted_at": "2026-08-04",
+    "marks": null,
+    "status": "submitted"
+  },
+  {
+    "student_id": "S2023016",
+    "assignment_id": "A049",
+    "submitted_at": "2026-08-11",
+    "marks": null,
+    "status": "submitted"
+  },
+  {
+    "student_id": "S2023017",
+    "assignment_id": "A024",
+    "submitted_at": "2026-07-19",
+    "marks": 41,
+    "status": "graded"
+  },
+  {
+    "student_id": "S2023017",
+    "assignment_id": "A048",
+    "submitted_at": "2026-07-18",
+    "marks": 17,
+    "status": "graded"
+  },
+  {
+    "student_id": "S2023017",
+    "assignment_id": "A026",
+    "submitted_at": "2026-08-02",
+    "marks": null,
+    "status": "submitted"
+  },
+  {
+    "student_id": "S2023017",
+    "assignment_id": "A029",
+    "submitted_at": "2026-08-01",
+    "marks": null,
+    "status": "submitted"
+  },
+  {
+    "student_id": "S2023017",
+    "assignment_id": "A025",
+    "submitted_at": "2026-08-24",
+    "marks": null,
+    "status": "submitted"
+  },
+  {
+    "student_id": "S2023018",
+    "assignment_id": "A041",
+    "submitted_at": "2026-07-06",
+    "marks": 20,
+    "status": "graded"
+  },
+  {
+    "student_id": "S2023018",
+    "assignment_id": "A047",
+    "submitted_at": "2026-07-12",
+    "marks": 40,
+    "status": "graded"
+  },
+  {
+    "student_id": "S2023018",
+    "assignment_id": "A048",
+    "submitted_at": "2026-07-17",
+    "marks": 18,
+    "status": "graded"
+  },
+  {
+    "student_id": "S2023018",
+    "assignment_id": "A045",
+    "submitted_at": "2026-09-13",
+    "marks": null,
+    "status": "submitted"
+  }
+]
