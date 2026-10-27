@@ -1,6 +1,6 @@
 import { Fragment, useEffect, useRef, useState } from 'react'
+import { useLocation } from 'react-router-dom'
 import {
-  Hexagon,
   Bot,
   GraduationCap,
   Briefcase,
@@ -12,6 +12,7 @@ import {
 import * as api from '../api.js'
 import Markdown from '../components/Markdown.jsx'
 import Composer from '../components/Composer.jsx'
+import logo from '../assets/universe-ai-logo.png'
 
 const EXIT_MS = 160
 
@@ -75,7 +76,8 @@ const NODE_LABEL = {
   knowledge: 'Knowledge Agent · RAG',
 }
 
-export default function Assistant() {
+export default function Assistant({ onHistoryChange }) {
+  const location = useLocation()
   const [conversationId, setConversationId] = useState(null)
   const [messages, setMessages] = useState([])
   const [run, setRun] = useState(null)
@@ -89,8 +91,33 @@ export default function Assistant() {
   const composerRef = useRef(null)
 
   useEffect(() => {
+    if (location.state?.newConversation) {
+      setConversationId(null)
+      setMessages([])
+      setRun(null)
+      window.history.replaceState({}, '')
+    }
+    if (location.state?.conversationId) {
+      api.fetchConversation(location.state.conversationId).then((conversation) => {
+        setConversationId(conversation.id)
+        setMessages(conversation.messages.map((message) => ({
+          role: message.role,
+          content: message.content,
+          intent: message.intent,
+          trace: message.trace || [],
+        })))
+        window.history.replaceState({}, '')
+      }).catch((e) => setError(e.message))
+    }
+  }, [location.state])
+
+  useEffect(() => {
     const el = scrollRef.current
     if (!el) return
+    if (!messages.length && !busy && !pending) {
+      el.scrollTop = 0
+      return
+    }
     const last = messages[messages.length - 1]
     if (last?.role === 'assistant' && lastAgentRef.current) {
       el.scrollTop = lastAgentRef.current.offsetTop - 14
@@ -101,6 +128,7 @@ export default function Assistant() {
 
   const applyResult = (result) => {
     setConversationId(result.conversation_id)
+    onHistoryChange?.()
     setRun({ intent: result.intent, plan: result.plan, trace: result.trace })
     if (result.pending_approval) {
       setPending(result.pending_approval)
@@ -186,7 +214,7 @@ export default function Assistant() {
     <section className="assistant">
       <header className="assistant-head">
         <span className="head-mark">
-          <Hexagon size={15} aria-hidden="true" />
+          <img src={logo} alt="Universe AI" />
         </span>
         <div className={`orchestrator-state ${orchState}`}>
           <span className="dot" aria-hidden="true" />
@@ -239,7 +267,7 @@ export default function Assistant() {
             {messages.length === 0 && !busy && !pending && (
               <div className="hero">
                 <div className="hero-mark">
-                  <Bot size={26} aria-hidden="true" />
+                  <img src={logo} alt="Universe AI" />
                 </div>
                 <h2 className="hero-title">Ask Universe AI</h2>
                 <p className="hero-sub">

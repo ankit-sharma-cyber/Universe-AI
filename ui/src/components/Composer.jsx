@@ -1,5 +1,5 @@
 import { forwardRef, useImperativeHandle, useRef, useState } from 'react'
-import { Mic, Send } from 'lucide-react'
+import { Paperclip, Send } from 'lucide-react'
 
 const CHIPS = [
   'Check attendance policy',
@@ -51,15 +51,14 @@ const Composer = forwardRef(function Composer({ onSend, disabled }, ref) {
         ))}
       </div>
       <div className="chat-input">
-        <Mic size={16} aria-hidden="true" />
-        <input
+        <textarea
           ref={inputRef}
-          type="text"
           value={text}
           placeholder="Ask the agent team anything about college operations…"
           onChange={(e) => setText(e.target.value)}
           onKeyDown={onKeyDown}
         />
+        <div className="composer-tools"><span>Llama-3-70B Local</span><Paperclip size={14} aria-label="Attachments are not enabled" /></div>
         <button className="send" onClick={submit} disabled={disabled || !text.trim()} aria-label="Send">
           <Send size={14} />
         </button>

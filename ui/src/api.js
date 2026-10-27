@@ -44,3 +44,17 @@ export const sendChat = (payload) => request('/chat', { method: 'POST', body: JS
 
 export const sendApproval = (conversationId, approved) =>
   request('/approve', { method: 'POST', body: JSON.stringify({ conversation_id: conversationId, approved }) })
+
+export const fetchDashboard = () => request('/me/dashboard')
+export const fetchTimetable = () => request('/timetable')
+export const fetchCourses = () => request('/courses')
+export const fetchAttendance = () => request('/me/attendance')
+export const fetchAssignments = () => request('/me/assignments')
+export const fetchEvents = (scope = 'upcoming') => request(`/events?scope=${scope}`)
+export const fetchPlacements = () => request('/placements')
+export const fetchFaqs = () => request('/faqs')
+export const fetchPolicies = () => request('/policies')
+export const fetchHostels = () => request('/hostels')
+export const fetchLostFound = () => request('/lostfound')
+export const fetchConversations = () => request('/conversations')
+export const fetchConversation = (conversationId) => request(`/conversations/${conversationId}`)
